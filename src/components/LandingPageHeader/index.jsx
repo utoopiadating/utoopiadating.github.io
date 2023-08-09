@@ -14,7 +14,7 @@ const LandingPageHeader = (props) => {
                 className="text-orange-A700 text-xl w-auto"
                 size="txtMarkoOneRegular20"
               >
-                Utoopia <i>: Dildede</i>
+                Utoopia
               </Text>
               <Text
                   className="text-base text-gray-900 w-auto"

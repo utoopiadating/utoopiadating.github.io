@@ -23,7 +23,7 @@ const LandingPageFooter = (props) => {
                   className="text-orange-A700 text-xl w-auto"
                   size="txtMarkoOneRegular20"
                 >
-                  Utoopia: dildede
+                  Utoopia
                 </Text>
               </div>
               <div className="flex flex-col gap-7 h-[194px] md:h-auto items-start justify-start w-full">

@@ -14,7 +14,7 @@ const Header = (props) => {
                 className="text-orange-A700 text-xl w-auto"
                 size="txtMarkoOneRegular20"
               >
-                Utoopia: dildede
+                Utoopia
               </Text>
             </div>
 {/*             <div className="mobile-menu">
